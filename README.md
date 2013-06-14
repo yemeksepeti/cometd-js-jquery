@@ -1,7 +1,7 @@
 cometd-js-jquery
 ========================
 
-An implementation of the Bayeux protocol in JavaScript for jQuery for distribution via Bower.
+[CometD](http://cometd.org/) is an implementation of the Bayeux protocol. This repository provides a JavaScript library for use alongside jQuery, for distribution via Bower.
 
 Purpose
 -------
@@ -11,9 +11,9 @@ The purpose of this repository / project is to have an "always up-to-date" versi
 
 Usage
 -----
-This paragraph implies that you have installed npm (Node Package Manager, which is part of NodeJS) as well as [Bower](http://bower.io). (the command . 
+This paragraph implies that you have installed npm (Node Package Manager, which is part of NodeJS) as well as [Bower](http://bower.io). (the command **bower** must be present in your shell / command prompt / console). 
 
-The simple way of using this dependency is to issue:
+The simple way of using this dependency is to issue the following command from a terminal:
 ```bower install cometd-js-jquery```
 
 or by adding it to your project's ```bower.json```- / ```component.json```-file:
@@ -35,7 +35,7 @@ or by adding it to your project's ```bower.json```- / ```component.json```-file:
 Information about available versions can be obtained by issueing the *info*-command, eg.:
 ```bower info cometd-js-jquery```
 
-For futher information on using [Bower](http://bower.io)., read the documentation available on their [website](http://bower.io).
+For futher information on using [Bower](http://bower.io), read the documentation available on their [website](http://bower.io).
 
 Changelog
 ---------
