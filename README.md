@@ -5,7 +5,7 @@ An implementation of the Bayeux protocol in JavaScript for jQuery for distributi
 
 Purpose
 -------
-The purpose of this repository / project is to have an "always up-to-date" version, that can be acquired through [Bower](http://bower.io).
+The purpose of this repository / project is to have an "always up-to-date" version of [CometD](http://cometd.org/), that can be acquired through [Bower](http://bower.io).
 
 **Notice:** If a newer version has been released (yes, RC's or Alphas also count), feel free to submit a pull request (just include a message of which version you would like), and I'll make the version available.
 
